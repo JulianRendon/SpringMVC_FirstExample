@@ -14,8 +14,7 @@ body {
 		<div style="text-align: center;">
 			<h2>Hey you!.. This is my 1st Spring MVC Example..</h2>
 			<h3>
-				<a href="welcome.html">Click here to see Welcome Message...</a>(to
-				check Spring MVC Controller... @RequestMapping("/welcome"))
+				<a href="welcome.html">Click here to see Welcome Message</a> (to check Spring MVC Controller... @RequestMapping("/welcome"))
 			</h3>
 		</div>
 	</header>
